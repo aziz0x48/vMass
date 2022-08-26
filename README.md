@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/c99tn/Randoms/master/n.png?token=GHSAT0AAAAAABVX6V7OVKN5YN5NXLEK7T6MYYHZ5VA" width="850">
 </p>
 <p align="center">
-<a href="/#">Requirements</a> ◦ 
+<a href="#requirements-wrench">Requirements</a> ◦ 
 <a href="/#">Installation</a> ◦ 
 <a href="/#">Usage</a> ◦
 <a href="/#">Demo Video</a> ◦
