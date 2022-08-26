@@ -61,7 +61,7 @@ $ perl vMass.pl
 | Command | Description |
 | :---: | --- |
 | 1 | :green_square: Generate target hosts from given IP Range, you can use more as many ranges as you like (ex:  100.20.0.0/14 )              |
-| 2 | :yellow_square: Generate target hosts from given or using the bot env dorks, you can specify target hosts region, TLDs and search engines |
+| 2 | :yellow_square: Generate target hosts from given dorks or using the bot env dorks, you can specify target hosts region, TLDs and search engines |
 | 3 | :green_square: Generate target hosts from given Website List, PS: URL Lists must me domain.com format only without www or https          |
 | 4 | :green_square: Generate target hosts from provided hosting ip range, range is picked randomly, you can change range before starting      |
 | 5 | :green_square: Check the targets hosts to filter Live Running IPS from dead ones.                                                        |
