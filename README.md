@@ -73,7 +73,7 @@ $ perl vMass.pl
 | 11| :yellow_square: test extracted TWILIOs APIs validity and balance                                                                          |
 | 12| :yellow_square: try to find phpmyadmin login page, and perform admin takeover method to upload shell in Wordpress CMS hosts               |
 | 13| :yellow_square: Transfer all tools to a private telegram channel, telegram webhook is required                                            |
-|1337| :yellow_square: performs all the steps above one after another, you just configure the bot, start it and results will be delievered to your telegram, best use for RDP/VPS and with big target hosts list |
+|1337| :yellow_square: performs all the steps above one after another, you just configure the bot, start it and results will be delivered to your telegram, best use for RDP/VPS and with big target hosts list |
 <br>
 
 # Demo Video :clapper:
