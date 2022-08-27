@@ -71,7 +71,7 @@ $ perl vMass.pl
 | 9 | :green_square: Extract tools from hosts where env file is found based on tool type                                                       |
 | 10| :yellow_square: test extracted SMTPs, an email input is required, if the smtp delivers, the smtp info will be in the email body           |
 | 11| :yellow_square: test extracted TWILIOs APIs validity and balance                                                                          |
-| 12| :yellow_square: try to find phpmyadmin login page, and perform admin takeover method to upload shell in Wordpress CMS hosts               |
+| 12| :yellow_square: try to find phpmyadmin login page path, and perform admin takeover method to upload shell in Wordpress CMS hosts               |
 | 13| :yellow_square: Transfer all tools to a private telegram channel, telegram webhook is required                                            |
 |1337| :yellow_square: performs all the steps above one after another, you just configure the bot, start it and results will be delivered to your telegram, best use for RDP/VPS and with big target hosts list |
 <br>
