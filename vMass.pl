@@ -22,10 +22,29 @@ sub CMS_BANNER {
     if   ( $^O =~ /MSWin32/ ) { system("cls"); }
     else                      { system("clear"); }
 
-    print color('bold red');
-
+        
     #here art
-    print color('reset');
+    if   ( $^O =~ /MSWin32/ ){
+        print "os: Windows\n";
+        print color('bold red');
+    print q(
+                __   __/\/\   __ _ ___ ___  | |__   ___ | |_ 
+                \ \ / /    \ / _` / __/ __| | '_ \ / _ \| __|
+                 \ V / /\/\ \ (_| \__ \__ \ | |_) | (_) | |_ 
+                  \_/\/    \/\__,_|___/___/ |_.__/ \___/ \__|
+                                                 FREE VERSION
+                                Coded by Dpr
+                          https://github.com/c99tn
+                             https://t.me/dpr52
+                             
+                             
+                          vMass Bot - Version v1.2
+                         
+    LAST UPDATE : 08-29-22 ~ LAST EXPLOIT ADDED : CVE v2.3.5- Blind SQLi Magento
+    
+);
+print color('reset');
+    }else{
     print color('bold yellow');
     print( "
           ██╗░░░██╗███╗░░░███╗░█████╗░░██████╗░██████╗  ██████╗░░█████╗░████████╗
@@ -47,7 +66,7 @@ sub CMS_BANNER {
     );
     print color('reset');
     print q(
-        LAST UPDATE : 08-26-22 ~ LAST EXPLOIT ADDED : CVE v2.3.5- Blind SQLi Magento
+        LAST UPDATE : 08-29-22 ~ LAST EXPLOIT ADDED : CVE v2.3.5- Blind SQLi Magento
 
           ╔════════════════╦═════════════╦═════════════╦════════════╦════════════╗
           ║      CMS       ║  Wordpress  ║   Joomla    ║ Prestashop ║  Magento   ║
@@ -58,6 +77,7 @@ sub CMS_BANNER {
                 RANDOM HOSTING RANGES : 1030+ ~ Unique IPs Included : 50M+
 
 );
+}
 
 }
 
