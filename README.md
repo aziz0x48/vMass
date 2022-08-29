@@ -91,7 +91,7 @@ send me a DM on <a href="https://t.me/dpr52">Telegram</a>
 # Disclaimer :bangbang:
 vMass Bot was created for educational purposes only, Any actions and or activities done using this bot is solely your responsibility.
 
-## :star2: <b> Don't forget to leave a star on the Project </b>:star2:
+## :star2: <b> Thank you for checking out the bot ! </b>:star2:
 ## :ringed_planet: Join Our Channel To be Notified of Updates and New Releases :ringed_planet:
 
 <br>
