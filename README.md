@@ -6,7 +6,6 @@
 <a href="#requirements-wrench">Requirements</a> ◦ 
 <a href="#installation-package">Installation</a> ◦ 
 <a href="#usage--rescue_worker_helmet">Usage</a> ◦
-<a href="#demo-video-clapper">Demo Video</a> ◦
 <a href="#contact--speech_balloon">Contact</a>
 </p>
 <br>
@@ -75,13 +74,6 @@ $ perl vMass.pl
 | 13| :yellow_square: Transfer all tools to a private telegram channel, telegram webhook is required                                            |
 |1337| :yellow_square: performs all the steps above one after another, you just configure the bot, start it and results will be delivered to your telegram, best use for RDP/VPS and with big target hosts list |
 <br>
-
-# Demo Video :clapper:
-<p align="center">
-<a href="https://www.youtube.com/watch?v=rBrMyl2PUoU">
-<img src="https://img.youtube.com/vi/rBrMyl2PUoU/0.jpg" width="700">
-</a>
-</p>
 
 
 # Contact  :speech_balloon:
