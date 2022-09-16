@@ -40,7 +40,7 @@ sub CMS_BANNER {
                              
                           vMass Bot - Version v1.2
                          
-    LAST UPDATE : 08-29-22 ~ LAST EXPLOIT ADDED : CVE v2.3.5- Blind SQLi Magento
+    LAST UPDATE : 09-17-22 ~ LAST EXPLOIT ADDED : WordPress Elementor Plugin (CVE-2020-7055) 
     
 );
 print color('reset');
@@ -66,7 +66,7 @@ print color('reset');
     );
     print color('reset');
     print q(
-        LAST UPDATE : 08-29-22 ~ LAST EXPLOIT ADDED : CVE v2.3.5- Blind SQLi Magento
+    LAST UPDATE : 09-17-22 ~ LAST EXPLOIT ADDED : WordPress Elementor Plugin (CVE-2020-7055) 
 
           ╔════════════════╦═════════════╦═════════════╦════════════╦════════════╗
           ║      CMS       ║  Wordpress  ║   Joomla    ║ Prestashop ║  Magento   ║
@@ -1131,6 +1131,11 @@ sub Menu {
     }
     close FILE;
 
+    print color ("bold red");
+    print q(Checkout xSMTP - New Private SMTP SCANNER TOOL .. Released FREE: https://github.com/c99tn/xSMTP
+    
+    );
+    print color("reset");
    #bots stats
     print color("bold red");
     print "Stats:  ";
