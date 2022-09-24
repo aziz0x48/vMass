@@ -55,7 +55,8 @@ $ perl vMass.pl
 </p>  
 <p align="center">
 <b>vMass FREE Version only includes Features with :green_square:</b>  
-</p>  
+</p>
+
 
 | Command | Description |
 | :---: | --- |
