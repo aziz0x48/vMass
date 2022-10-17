@@ -27,7 +27,7 @@ Extracted Tools, can be filtered and tested to only keep working ones (test smtp
 $ git clone https://github.com/c99tn/vMass.git
 $ cd vMass
 ```
-2- Install required Perl Modules  
+2- Install required Perl Modules -- IMPORTANT
 Install Modules with Bash Script
 ```
 $ chmod +x install.sh
