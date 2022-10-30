@@ -18,7 +18,7 @@ No target list ? No worries, <b>vMass Bot</b> can generate hosts lists from IP r
 Extracted Tools, can be filtered and tested to only keep working ones (test smtp delivery and twilio api balance), the bot can also use wp hosts with phpmyadmin access to perform auto upload (admin takeover) if the CMS Exploits failed, working tools can be delivered right to your telegram channel inbox by settings up your telegram webhook in the Bot. The whole process from generating hosts and scanning to delivering the results to Telegram, can be automated using the AUTOPILOT option (For more information, check vMass Bot <a href="/#">Usage</a>).
 
 # Requirements :wrench:
-- Perl v5.x+ ( For Windows Users, get <a href="https://strawberryperl.com/">Strawberry Perl</a> )
+- Perl v5.x.x+ ( For Windows Users, get <a href="https://strawberryperl.com/">Strawberry Perl</a> )
 - RDP/VPS ( <b>Optional</b> )
 
 # Installation :package:
