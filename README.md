@@ -10,7 +10,7 @@
 </p>
 <br>
 <b>vMass Bot</b> automates the exploitation of remote hosts by trying to find environment files (.env) in the target hosts and extract tools and info insde,
-then the bot detects the target host CMS and tries to auto exploit and upload shell payload using the vMass vulnerability set <b>( 108 exploits in the current version 1.2, check the full vulnerability list in our <a href="https://t.me/+7wraokmFiCcxOTk0">Telegram Channel</a> )</b>.  
+then the bot detects the targets host CMS and tries to auto exploit and upload shell payload using the vMass vulnerability set <b>( 108 exploits in the current version 1.2, check the full vulnerability list in our <a href="https://t.me/+7wraokmFiCcxOTk0">Telegram Channel</a> )</b>.  
 
 No target list ? No worries, <b>vMass Bot</b> can generate hosts lists from IP ranges, URL list, dotenv low profile dorks and scrapes from (bing, duckduckgo, ..) or you can use IP ranges from various hosting providers for best hit rate while scanning, then generated lists can be checked using the bot to eleminate dead hosts.
   
