@@ -36,7 +36,7 @@ $ bash install.sh
 <b>OR</b>  
 Install modules manually
 ```
-$ perl -MCPAN -e shell
+$ perl -MCPAN -e shell 
 cpan[1]> install Net::IP
          install Net::DNS::Resolver
          install LWP::UserAgent
