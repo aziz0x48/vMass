@@ -76,8 +76,6 @@ $ perl vMass.pl
 |1337| :yellow_square: performs all the steps above one after another, you just configure the bot, start it and results will be delivered to your telegram, best use for RDP/VPS and with big target hosts list |
 <br>
 
-we work todaaaaaaay !!!!!!!
-
 # Contact  :speech_balloon:
 Got a question ?  
 send me a DM on <a href="https://t.me/dpr52">Telegram</a>
