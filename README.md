@@ -77,7 +77,7 @@ $ perl vMass.pl
 <br>
 
 # Contact  :speech_balloon:
-Got a question ?  
+Got a Question ?  
 send me a DM on <a href="https://t.me/dpr52">Telegram</a>
 
 # Disclaimer :bangbang:
