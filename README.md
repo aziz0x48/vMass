@@ -78,7 +78,7 @@ $ perl vMass.pl
 
 # Contact  :speech_balloon:
 Got a Question ?  
-send me a DM on <a href="https://t.me/dpr52">Telegram</a>
+send me DM on <a href="https://t.me/dpr52">Telegram</a>
 
 # Disclaimer :bangbang:
 vMass Bot was created for educational purposes only, Any actions and or activities done using this bot is solely your responsibility.
