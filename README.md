@@ -81,7 +81,7 @@ Got a Question ?
 send me DM on <a href="https://t.me/dpr52">Telegram</a>
 
 # Disclaimer :bangbang:
-vMass Bot was created for educational purposes only, Any actions and or activities done using this bot is solely your responsibility.
+vMass Bot was created for educational purposes only, Any actions and/or activities done using this bot is solely your responsibility.
 
 ## :ringed_planet: Join Our Channel To be Notified of Updates and New Releases :ringed_planet:
 
