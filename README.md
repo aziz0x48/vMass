@@ -13,7 +13,7 @@
 then the bot detects the targets host CMS and tries to auto-exploit and upload shell payload using the vMass vulnerability set <b>( 108 exploits in the current version 1.2, check the full vulnerability list in our <a href="https://t.me/+7wraokmFiCcxOTk0">Telegram Channel</a> )</b>.  
 
 No target list ? No worries, <b>vMass Bot</b> can generate hosts lists from IP ranges, URL list, dotenv low profile dorks and scrapes from (bing, duckduckgo, ..) or you can use IP ranges from various hosting providers for best hit rate while scanning, then generated lists can be checked using the bot to eleminate invalid/dead hosts.
-  
+   
 
 Extracted Tools, can be filtered and tested to only keep working ones (test smtp delivery and twilio api balance), the bot can also use wp hosts with phpmyadmin access to perform auto upload (admin takeover) if the CMS Exploits failed, working tools can be delivered right to your telegram channel inbox by settings up your telegram webhook in the Bot. The whole process from generating hosts and scanning to delivering the results to Telegram, can be automated using the AUTOPILOT option (For more information, check vMass Bot <a href="/#">Usage</a>).
 
