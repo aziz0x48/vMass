@@ -23,7 +23,7 @@ Extracted Tools, can be filtered and tested to only keep working ones (test smtp
 
 # Installation :package:
 1- Clone vMass Bot
-```
+``` 
 $ git clone https://github.com/c99tn/vMass.git
 $ cd vMass
 ```
