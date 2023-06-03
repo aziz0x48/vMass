@@ -6,7 +6,7 @@
 <a href="#requirements-wrench">Requirements</a>  ◦ 
 <a href="#installation-package">Installation</a>  ◦ 
 <a href="#usage--rescue_worker_helmet">Usage</a>  ◦
-<a href="#contact--speech_balloon">Contact</a>
+<a href="#contact--speech_balloon">Contact</a> 
 </p> 
 <br>   
 <b>vMass Bot</b> automates the exploitation of remote hosts by trying to find environment files (.env) in the target hosts and extract tools and info insde, 
