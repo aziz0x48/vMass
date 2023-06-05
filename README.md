@@ -5,7 +5,7 @@
 <p align="center"> 
 <a href="#requirements-wrench">Requirements</a>  ◦ 
 <a href="#installation-package">Installation</a>  ◦ 
-<a href="#usage--rescue_worker_helmet">Usage</a>  ◦
+<a href="#usage--rescue_worker_helmet">Usage</a>  ◦ 
 <a href="#contact--speech_balloon">Contact</a> 
 </p> 
 <br>   
